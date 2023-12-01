@@ -13,9 +13,6 @@
     background-position: center;
     position: relative;
 }
-.header{
-
-}
 .navbar{
     display: flex;
     justify-content: space-between;
